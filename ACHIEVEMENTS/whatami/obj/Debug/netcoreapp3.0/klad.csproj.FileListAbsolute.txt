@@ -1,0 +1,11 @@
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\bin\Debug\netcoreapp3.0\klad.exe
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\bin\Debug\netcoreapp3.0\klad.deps.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\bin\Debug\netcoreapp3.0\klad.runtimeconfig.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\bin\Debug\netcoreapp3.0\klad.runtimeconfig.dev.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\bin\Debug\netcoreapp3.0\klad.dll
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\bin\Debug\netcoreapp3.0\klad.pdb
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\obj\Debug\netcoreapp3.0\klad.csprojAssemblyReference.cache
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\obj\Debug\netcoreapp3.0\klad.AssemblyInfoInputs.cache
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\obj\Debug\netcoreapp3.0\klad.AssemblyInfo.cs
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\obj\Debug\netcoreapp3.0\klad.dll
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\whatami\obj\Debug\netcoreapp3.0\klad.pdb

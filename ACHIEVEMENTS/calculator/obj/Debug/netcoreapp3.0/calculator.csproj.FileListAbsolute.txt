@@ -1,0 +1,11 @@
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\bin\Debug\netcoreapp3.0\calculator.exe
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\bin\Debug\netcoreapp3.0\calculator.deps.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.dev.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\bin\Debug\netcoreapp3.0\calculator.dll
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\bin\Debug\netcoreapp3.0\calculator.pdb
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\obj\Debug\netcoreapp3.0\calculator.csprojAssemblyReference.cache
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfoInputs.cache
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfo.cs
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\obj\Debug\netcoreapp3.0\calculator.dll
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\calculator\obj\Debug\netcoreapp3.0\calculator.pdb

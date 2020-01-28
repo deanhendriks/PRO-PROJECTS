@@ -1,0 +1,11 @@
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\obj\Debug\netcoreapp3.0\classes.csprojAssemblyReference.cache
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\obj\Debug\netcoreapp3.0\classes.AssemblyInfoInputs.cache
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\obj\Debug\netcoreapp3.0\classes.AssemblyInfo.cs
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\bin\Debug\netcoreapp3.0\classes.exe
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\bin\Debug\netcoreapp3.0\classes.deps.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\bin\Debug\netcoreapp3.0\classes.runtimeconfig.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\bin\Debug\netcoreapp3.0\classes.runtimeconfig.dev.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\bin\Debug\netcoreapp3.0\classes.dll
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\bin\Debug\netcoreapp3.0\classes.pdb
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\obj\Debug\netcoreapp3.0\classes.dll
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\classes\obj\Debug\netcoreapp3.0\classes.pdb

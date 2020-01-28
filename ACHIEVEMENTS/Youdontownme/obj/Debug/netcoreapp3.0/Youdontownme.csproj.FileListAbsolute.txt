@@ -1,0 +1,11 @@
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\bin\Debug\netcoreapp3.0\Youdontownme.exe
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\bin\Debug\netcoreapp3.0\Youdontownme.deps.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\bin\Debug\netcoreapp3.0\Youdontownme.runtimeconfig.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\bin\Debug\netcoreapp3.0\Youdontownme.runtimeconfig.dev.json
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\bin\Debug\netcoreapp3.0\Youdontownme.dll
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\bin\Debug\netcoreapp3.0\Youdontownme.pdb
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\obj\Debug\netcoreapp3.0\Youdontownme.csprojAssemblyReference.cache
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\obj\Debug\netcoreapp3.0\Youdontownme.AssemblyInfoInputs.cache
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\obj\Debug\netcoreapp3.0\Youdontownme.AssemblyInfo.cs
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\obj\Debug\netcoreapp3.0\Youdontownme.dll
+D:\school\bewijzenmap\periode1.2\PRO\ACHIEVEMENTS\Youdontownme\obj\Debug\netcoreapp3.0\Youdontownme.pdb
